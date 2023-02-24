@@ -1,9 +1,11 @@
-### Hi there 👋
+### Howdy!
+
+### I am a Robotics and Mechanical Engineering student at Worcester Polytechnic Institute with a burning passion for anything related to robotics!
+
+### I am currently working on the final project for RBE3001, setting up my MQP (Major Qualifying Project, aka our senior capstone), and making this readme look a little nicer xD
 
 <!--
 **pbrush/pbrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-What does this do
 
 Here are some ideas to get you started:
 
