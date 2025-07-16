@@ -11,7 +11,7 @@
 
 ---
 
-- 🛠️ I recently completed my Master's Thesis at **WPI** with Nitin Sanket's **Perception and Autonomous Robots Group**.
+- 🛠️ I recently completed my Master's Thesis at **WPI** with Nitin Sanket's [**Perception and Autonomous Robots Group**](https://pear.wpi.edu/).
 - 🛠️I am currently interning at **Smartapp.com** as a **Reconstruction Engineer** with their **Robotics and Immersion Group**.
 - 🌱 I'm currently learning **GSplatting**, **Transformers**, and **Foundation Models**.
 - 🧠 Check out my projects on [my portfolio](https://pbrush.github.io/website/).
