@@ -13,7 +13,7 @@
 ### 👋🏼 About me
 
 - 🛠️ I recently completed my Master's Thesis at **WPI** with Nitin Sanket's [**Perception and Autonomous Robots Group**](https://pear.wpi.edu/).
-- 🛠️I am currently interning at **Smartapp.com** as a **Reconstruction Engineer** with their **Robotics and Immersion Group**.
+- 💻 I am currently interning at [**Smartapp.com**](https://www.smartapp.com/) as a **Reconstruction Engineer** with their **Robotics and Immersion Group**.
 - 🌱 I'm currently learning **GSplatting**, **Transformers**, and **Foundation Models**.
 - 🧠 Check out my projects on [my portfolio](https://pbrush.github.io/website/).
 - 📫 Reach me at: [phildbrush@gmail.com](mailto:phildbrush@gmail.com)
