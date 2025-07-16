@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Intern-Smartapp.com-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-GSplatting%20%26%20Foundation%20%20Models-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-GSplatting%20%26%20Foundation%20%20Models-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -31,7 +31,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-555555?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-555555?style=flat&logo=mathworks&logoColor=white" />
+  
 </p>
 
 #### Frameworks
